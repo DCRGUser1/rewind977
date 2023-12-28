@@ -4,24 +4,24 @@
 
   <panel>
     <number>1</number>
-    <image>https://github.com/DCRGUser1/rewind977/blob/main/ShopDC977.png?raw=true</image>
-    <url>https://rewind977.com/shop-door-county</url>
-    <redirect>n</redirect>
-  </panel>
-  
-  <panel>
-    <number>2</number>
     <image>https://github.com/DCRGUser1/rewind977/blob/main/RewindEventCal.png?raw=true</image>
     <url>https://rewind977.com/events</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
-    <number>3</number>
+    <number>2</number>
     <image>https://github.com/DCRGUser1/rewind977/blob/main/CKAT40.png?raw=true</image>
     <url>https://rewind977.com/programs</url>
     <redirect>n</redirect>
   </panel>
+ 
+  <panel>
+    <number>3</number>
+    <image>https://github.com/DCRGUser1/rewind977/blob/main/JennyGoodDose.png?raw=true</image>
+    <url>https://bit.ly/Rewind977</url>
+    <redirect>n</redirect>
+  </panel> 
   
 <panel>
     <number>4</number>
